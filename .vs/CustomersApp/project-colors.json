@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e79fc245-a855-4382-b5a0-2a59f4b9b762": {
+      "ProjectGuid": "e79fc245-a855-4382-b5a0-2a59f4b9b762",
+      "DisplayName": "CustomersApp.Api",
+      "ColorIndex": 0
+    },
+    "acfb3269-200f-493a-b5bb-03c83e627d2f": {
+      "ProjectGuid": "acfb3269-200f-493a-b5bb-03c83e627d2f",
+      "DisplayName": "CustomersApp.Tests",
+      "ColorIndex": 1
+    },
+    "8ac2981c-7be5-4a6a-97d7-ec13b248830e": {
+      "ProjectGuid": "8ac2981c-7be5-4a6a-97d7-ec13b248830e",
+      "DisplayName": "CustomersApp.UnitTests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
